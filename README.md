@@ -36,7 +36,8 @@ Random seeds in R are used to initialise a random number generator. A random num
 
    c) Edit the script to make a reproducible simulation of Brownian motion. Commit the file and push it to your forked `reproducible-research_homework` repo. (10 points) \
    d) Go to your commit history and click on the latest commit. Show the edit you made to the code in the comparison view (add this image to the **README.md** of the fork). (5 points) 
-   <img width="1470" alt="Screenshot 2024-12-20 at 12 50 24" src="https://github.com/user-attachments/assets/0f76923f-11eb-4fa7-b1dc-a99acb192ad1" />
+ <img width="1470" alt="Screenshot 2024-12-20 at 17 14 47" src="https://github.com/user-attachments/assets/e665f868-523d-43a0-b145-e0fbc88d9c53" />
+
 
 
 6) (**30 points**) In 2014, Cui, Schlub and Holmes published an article in the *Journal of Virology* (doi: https://doi.org/10.1128/jvi.00362-14) showing that the size of viral particles, more specifically their volume, could be predicted from their genome size (length). They found that this relationship can be modelled using an allometric equation of the form **$`V = \alpha L^{\beta}`$**, where $`V`$ is the virion volume in nm<sup>3</sup> and $`L`$ is the genome length in nucleotides.
