@@ -1,7 +1,5 @@
 # Reproducible research: version control and R
 
-\# INSERT ANSWERS HERE #
-
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points. First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
@@ -11,6 +9,8 @@ Questions 1, 2 and 3 should be answered in the **README.md** file of the `logist
 **Submission**: Please submit a single **PDF** file with your candidate number (and no other identifying information), and a link to your fork of the `reproducible-research_homework` repo with the completed answers (also make sure that your username has been anonymised). All answers should be on the `main` branch.
 
 ## Assignment questions 
+
+https://github.com/CharGrundy/logistic_growth
 
 1) (**10 points**) Annotate the **README.md** file in your `logistic_growth` repo with more detailed information about the analysis. Add a section on the results and include the estimates for $N_0$, $r$ and $K$ (mention which *.csv file you used).
    
